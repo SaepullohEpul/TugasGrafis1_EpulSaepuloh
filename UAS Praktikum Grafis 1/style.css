@@ -1,0 +1,10 @@
+#gameCanvas {
+    border: 1px solid #000;
+    margin: 0 auto;
+    display: block;
+}
+body {
+    background-image: url('itachi.png'); /* Ganti 'background.jpg' dengan nama file gambar latar belakang Anda */
+    background-size: cover;
+    background-position: center;
+}
